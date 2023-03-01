@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "gender": "Hombre",
+      "name": {
+        "title": "Sr",
+        "first": "Pablo",
+        "last": "Coletti"
+      },
+      "location": {
+        "street": {
+          "number": 123,
+          "name": "Calle Falsa"
+        },
+        "city": "Resistencia",
+        "state": "Chaco",
+        "country": "Argentina",
+        "postcode": "3500",
+        "coordinates": {
+          "latitude": "-27.46056",
+          "longitude": "-58.98389"
+        },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Resistencia, Chaco"
+        }
+      },
+      "email": "pablo01@emailfalso.com",
+      "login": {
+        "uuid": "7a0eed16-9430-4d68-901f-c0d4c1c3bf00",
+        "username": "pablo01",
+        "password": "facil123",
+      },
+      "dob": {
+        "date": "1997-06-01",
+        "age": 25
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      },
+      "nat": "ar"
+    }
+  ]
+}
